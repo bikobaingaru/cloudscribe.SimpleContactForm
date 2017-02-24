@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.1.0-rc20161129",
+  "version": "1.1.0-rc20161130",
   "description": "A simple contact form for ASP.NET Core",
   "authors": [ "Joe Audette" ],
   "packOptions": {
